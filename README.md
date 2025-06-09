@@ -35,7 +35,7 @@ ServiceNow · Microsoft Exchange · VMware · Barracuda · Proofpoint · Active 
 
 ### 📫 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/karson-bryant-671714159/))  
+[LinkedIn](https://www.linkedin.com/in/karson-bryant-671714159/)  
 [Email](mailto:karson.r.bryant@outlook.com)  
 
 <!--
