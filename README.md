@@ -29,8 +29,8 @@ ServiceNow · Microsoft Exchange · VMware · Barracuda · Proofpoint · Active 
 ### 📚 What I’m Working On
 
 - Currently progressing through https://boot.dev courses
-- Learning core concepts of software development and package development in python
-- Working on a small "Asteroids" game created in Python with Pygame
+- Learning core concepts of software development, package deployment, and website development
+- Building my portfolio site
 
 
 ### 📫 Connect With Me
