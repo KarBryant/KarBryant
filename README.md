@@ -1,65 +1,67 @@
-# 👋 Hi, I'm Karson — Infrastructure Engineer → Aspiring Backend Developer
+# 👋 Hi, I'm Karson — Infrastructure Engineer | Growing Software Developer
 
-I'm an infrastructure engineer turned aspiring backend developer, building on years of experience managing systems, automations, and reliability at scale. My background in infrastructure gives me a deep appreciation for performance, security, and maintainability — qualities I now bring into software development.
+I'm an infrastructure engineer with a strong background in systems, automation, and reliability — now expanding my skillset into backend software development. My work in infrastructure has always pushed me toward building tools, improving workflows, and writing clean, maintainable automation. Strengthening my software development skills is a natural extension of the engineering work I already do.
 
 ---
 
 ### 🧰 My Technical Background
 
-- 💼 Began in **service desk** and worked up to **System Administrator II**
-- ⚙️ Developed automation workflows and integrations in **ServiceNow**
-- 📧 Administered **Microsoft Exchange** and **email protection systems**
-- 💾 Handled **storage, backup, and disaster recovery planning**
-- 🌐 Led **network and ISP cutovers** across 200+ remote locations
-- 🧠 Strong focus on **automation, documentation, and reliability**
+- 💼 Started in **service desk**, grew into **System Administrator II / Infrastructure Engineer**  
+- ⚙️ Built automation workflows & integrations in **ServiceNow**  
+- 📧 Administered **Microsoft Exchange** and enterprise **email security systems**  
+- 💾 Worked with **storage**, **backup**, and **disaster recovery planning**  
+- 🌐 Supported **network and ISP cutovers** across 200+ remote sites  
+- 🧠 Strong focus on **automation, documentation, reliability, and operational excellence**
 
 ---
 
-### 🚀 Transitioning Into Software Development
+### 🚀 Strengthening My Software Engineering Skills
 
-After years optimizing infrastructure, I found my favorite part of engineering was **building the tools themselves**. Now I’m focused on backend development, where clean design meets system reliability.
+A big part of my infrastructure work has always involved building tools, improving automation, and creating reliable workflows. Over time, that naturally pushed me deeper into backend development so I can build more robust, efficient systems.
 
-I’m currently:
+I'm currently strengthening the software side of my engineering work through:
 
-- 📘 Learning **Python** and **Django** for backend web development
-- 🧪 Studying **testing (Pytest)** and **software design principles**
-- ⚙️ Exploring **package structuring**, **CLI tools**, and **automation projects**
-- 🧩 Building my foundation in **clean architecture** and **SOLID principles**
+- 📘 Python, Django, and backend development patterns  
+- 🧪 Pytest and software quality practices  
+- ⚙️ CLI tooling, packaging, and automation  
+- 🧩 Architectural fundamentals like clean design and SOLID principles  
+
+Everything I’m learning helps me build better tooling, more reliable automations, and more maintainable systems in both infrastructure and software contexts.
 
 ---
 
 ### 🧠 Current Tools & Technologies
 
-**Development:**  
+**Software Development:**  
 Python · Django · Pytest · Git · Linux · REST APIs · Packaging  
 
-**Infrastructure Background:**  
+**Infrastructure Engineering:**  
 ServiceNow · Microsoft Exchange · VMware · Barracuda · Proofpoint · Active Directory · CommVault · Meraki  
 
 ---
 
 ### 🧱 What I’m Working On
 
-- Continuing through [Boot.dev](https://www.boot.dev/) courses (Level 53)  
-- Developing **FileMason**, a modular file organization CLI tool (local project)  
-- Designing and planning a **Django-based portfolio site** to showcase future projects  
-- Refining my understanding of **testing**, **packaging**, and **deployment workflows**
+- Progressing through [Boot.dev](https://www.boot.dev/) courses (Level 53)  
+- Building **FileMason**, a modular file organization CLI tool  
+- Developing my **Django-based portfolio site** for future projects  
+- Practicing testing, packaging, and deployment workflows  
 
 ---
 
 ### 🎯 Current Focus
 
-- Writing maintainable, testable Python code  
-- Learning Django’s class-based views and authentication system  
-- Practicing packaging, distribution, and documentation for CLI tools  
+- Writing clean, maintainable Python code  
+- Deepening my understanding of Django patterns  
+- Strengthening best practices around testing and architecture  
 
 ---
 
 ### 📫 Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/karson-bryant-671714159/)  
-[Email](mailto:karson.r.bryant@outlook.com)  
+[Email](mailto:karson@karsonbryant.com)
 
 <p align="left">
-  <img src="https://api.boot.dev/v1/users/public/6eac0581-5639-4ecf-ac9a-aec8bc98fbad/thumbnail" >
+  <img src="https://api.boot.dev/v1/users/public/6eac0581-5639-4ecf-ac9a-aec8bc98fbad/thumbnail">
 </p>
